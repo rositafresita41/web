@@ -1,0 +1,29 @@
+/* Estilo del titulo principal de arriba */
+#principal {
+	/* Tamaño de letra */
+	font-size: 50px;
+	/* Fondo de letra */
+	background-color:#0FFF45;
+	/* Color de letra*/
+	color:#7416AD;
+	text-align: center;
+	background-image: url("Imagenes/imagen_11.jpg");
+ 
+}
+
+/* Atributo id*/
+#mitexto {
+	/* Tamaño de la letra */
+	font-size: 60px;
+	/* Fondo de letra */
+	/* Color de letra*/
+	color:#FF3A00
+ 	text-aling: center;
+{
+
+#segundo {
+	/* Tamaño de letra */
+	font-size: 50px;
+	/* Fondo de letra */
+	/
+	
